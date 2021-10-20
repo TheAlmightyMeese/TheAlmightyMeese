@@ -1,4 +1,4 @@
-Hello, /n
-I am Richard Truesdale. /n
-Welcome to my Github. /n
-Please excuse the mess. /n
+Hello, 
+I am Richard Truesdale. 
+Welcome to my Github. 
+Please excuse the mess. 
